@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/holy-script/blog-lite-backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/holy-script/blog-lite-frontend
